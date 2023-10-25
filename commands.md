@@ -17,4 +17,6 @@ sa: South America
 jp: Japan
 in: India
 
+#Credit
+[How2MC YouTube Channel](https://www.youtube.com/channel/UCZSZBeR-JM2u8nFhcuvMPjA)
 
