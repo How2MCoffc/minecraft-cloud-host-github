@@ -1,5 +1,5 @@
 ### To run the server 
-java -Xmx6G -Xms6G -jar server.jar nogui
+./start_server.sh 
 
 # ngrok
 [Create Account on ngrok.com](https://dashboard.ngrok.com/get-started/your-authtoken)
@@ -24,6 +24,6 @@ Change motd as your need.
 You can alter pvp .
 
 
-#Credit goes to 
+### Credit goes to 
 [How2MC YouTube Channel](https://www.youtube.com/channel/UCZSZBeR-JM2u8nFhcuvMPjA)
 
